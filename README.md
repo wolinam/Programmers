@@ -7,7 +7,7 @@
 .
 | Number | Name |
 | ------ | ------ |
-| 01 | [Hash]() |
+| 01 | [Hash](https://github.com/wolinam/Programmers/tree/main/01_Hash) |
 | 02 | [Stack,Queue]() |
 | 03 | [Heap]() |
 | 04 | [정렬]() |
