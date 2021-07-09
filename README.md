@@ -8,7 +8,7 @@
 | Number | Name |
 | ------ | ------ |
 | 01 | [Hash](https://github.com/wolinam/Programmers/tree/main/01_Hash) |
-| 02 | [Stack,Queue]() |
+| 02 | [Stack,Queue](https://github.com/wolinam/Programmers/blob/main/02_Stack_Queue/README.md) |
 | 03 | [Heap]() |
 | 04 | [정렬]() |
 | 05 | [완전탐색]() |
